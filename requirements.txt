@@ -5,7 +5,7 @@ decorator==4.1.2
 idna==2.6
 matplotlib==2.1.0
 networkx==2.0
-numpy==1.13.3
+numpy==1.22.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2017.3
